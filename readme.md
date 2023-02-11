@@ -1,3 +1,4 @@
+``` bash
 
 ADB
     adb start-server
@@ -85,3 +86,5 @@ Drozer
         run app.service.info -a <package name>
         run app.service.start --action <action> --component <package name> <component name>
         run app.service.send <package name> <component name> --msg <what> <arg1> <arg2> --extra <type> <key> <value> --bundle-as-obj
+
+```
